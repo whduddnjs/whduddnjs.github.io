@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://whduddnjs.github.io/sitemap.xml
