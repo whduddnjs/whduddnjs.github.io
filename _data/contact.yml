@@ -1,18 +1,25 @@
 #  The contact options.
+#  사이드바 하단 아이콘
+#  https://fontawesome.com/icons
+
 
 - type: github
-  icon: "fab fa-github"
+  icon: "fab fa-github-alt"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+#- type: twitter
+#  icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: house
+  icon: "fas fa-house"
+  url: 'https://whduddnjs.github.io/'
+
+#- type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
